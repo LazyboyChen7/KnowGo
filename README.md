@@ -1,0 +1,2 @@
+# KnowGo
+something about golang
